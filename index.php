@@ -27,7 +27,7 @@ $manager = new ContentManager($db);
 
 <body>
   <div class="container mt-3">
-    <h1>TP3 Maude Laroche et Vincent Desrosiers</h1>
+    <h1>Banque de films et séries télé</h1>
     <div class="row">
       <div class="container">
       <!-- BOUTONS FORMULAIRES -->
