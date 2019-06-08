@@ -1,0 +1,6 @@
+{
+    "name": "1795145/tp1_maudelaroche_vincentdesrosiers",
+    "require": {
+        "symfony/var-dumper": "^4.2"
+    }
+}
